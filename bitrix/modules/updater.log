@@ -1,0 +1,12 @@
+2021-08-25 20:34:24 -  - exec CUpdateClient::GetUpdatesList
+2021-08-25 20:34:24 -  - exec CUpdateClient::CollectRequestData
+2021-08-25 20:34:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.600.1&VERSION=21.400.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test-x-page2&CHHB=test-x-page2&CSAB=127.0.0.1&SUID=21f14af8a3eefe977adb797823014aee&CANGZIP=Y&CLIENT_PHPVER=7.3.2&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=21.400.100&bitm_b24connector=21.0.0&bitm_bitrixcloud=21.0.0&bitm_clouds=21.100.0&bitm_fileman=21.200.0&bitm_highloadblock=21.100.0&bitm_iblock=21.400.100&bitm_landing=21.300.300&bitm_messageservice=21.100.0&bitm_perfmon=21.0.0&bitm_rest=21.200.0&bitm_search=21.0.100&bitm_seo=21.300.0&bitm_socialservices=21.100.0&bitm_translate=21.100.0&bitm_ui=21.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-08-25 20:34:24 -  - exec CUpdateClient::GetHTTPPage
+2021-08-25 20:34:24 -  - TIME GetUpdatesList(request) 0.26 sec
+2021-08-25 20:34:24 -  - exec CUpdateClient::ParseServerData
+2021-08-25 20:34:28 -  - exec CUpdateClient::GetUpdatesList
+2021-08-25 20:34:28 -  - exec CUpdateClient::CollectRequestData
+2021-08-25 20:34:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.600.1&VERSION=21.400.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=test-x-page2&CHHB=test-x-page2&CSAB=127.0.0.1&SUID=21f14af8a3eefe977adb797823014aee&CANGZIP=Y&CLIENT_PHPVER=7.3.2&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=21.400.100&bitm_b24connector=21.0.0&bitm_bitrixcloud=21.0.0&bitm_clouds=21.100.0&bitm_fileman=21.200.0&bitm_highloadblock=21.100.0&bitm_iblock=21.400.100&bitm_landing=21.300.300&bitm_messageservice=21.100.0&bitm_perfmon=21.0.0&bitm_rest=21.200.0&bitm_search=21.0.100&bitm_seo=21.300.0&bitm_socialservices=21.100.0&bitm_translate=21.100.0&bitm_ui=21.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-08-25 20:34:28 -  - exec CUpdateClient::GetHTTPPage
+2021-08-25 20:34:28 -  - TIME GetUpdatesList(request) 0.242 sec
+2021-08-25 20:34:28 -  - exec CUpdateClient::ParseServerData
