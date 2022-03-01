@@ -1,4 +1,4 @@
-# test-x-page. 
+# test-task. 
 directory code: test-task/local/php_interface/lib/
 
 1. Развернуть битрикс старт на хостинге на ваш выбор.
